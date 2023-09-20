@@ -15,7 +15,7 @@ namespace Tyuiu.GaleevTS.Sprint1.Task1.V5
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт №0 | Выполнил: Галеев Т. С. | ИИПб-23-3";
+            Console.Title = "Спринт №1 | Выполнил: Галеев Т. С. | ИИПб-23-3";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #1                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы в С#                                         *");
