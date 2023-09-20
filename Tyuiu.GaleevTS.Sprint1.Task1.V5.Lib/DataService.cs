@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tuyiu.GaleevTS.Sprint1.Task1.V5.Lib
+namespace Tyuiu.GaleevTS.Sprint1.Task1.V5.Lib
 {
     public class DataService : ISprint1Task1V5
     {
@@ -16,4 +16,3 @@ namespace Tuyiu.GaleevTS.Sprint1.Task1.V5.Lib
         }
     }
 }
-
