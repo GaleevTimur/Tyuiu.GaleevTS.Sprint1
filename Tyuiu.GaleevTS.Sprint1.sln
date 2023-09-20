@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaleevTS.Sprint1.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{4E9F4703-A1C0-4DE1-9331-B08EBBBD54A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaleevTS.Sprint1.Task1.V5", "Tyuiu.GaleevTS.Sprint1.V5\Tyuiu.GaleevTS.Sprint1.Task1.V5.csproj", "{6F7C57CA-1483-40A6-B8C0-47DEABB7C5BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaleevTS.Sprint1.1.V5", "Tyuiu.GaleevTS.Sprint1.V5\Tyuiu.GaleevTS.Sprint1.1.V5.csproj", "{6F7C57CA-1483-40A6-B8C0-47DEABB7C5BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaleevTS.Sprint1.Task1.V5.Lib", "Tyuiu.GaleevTS.Sprint1.V5.Lib\Tyuiu.GaleevTS.Sprint1.Task1.V5.Lib.csproj", "{89203AC6-A1DE-4F6B-9FDC-311DD0837137}"
 EndProject
