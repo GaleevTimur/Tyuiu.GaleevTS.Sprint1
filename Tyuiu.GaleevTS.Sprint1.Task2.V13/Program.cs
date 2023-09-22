@@ -19,7 +19,7 @@ namespace Tyuiu.GaleevTS.Sprint1.Task2.V13
             Console.WriteLine("* Спринт #1                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы в С#                                         *");
             Console.WriteLine("* Задания #2                                                               *");
-            Console.WriteLine("* Вариант #13                                                               *");
+            Console.WriteLine("* Вариант #13                                                              *");
             Console.WriteLine("* Выполнил: Галеев Тимур Серикович | ИИПб-23-3                             *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
