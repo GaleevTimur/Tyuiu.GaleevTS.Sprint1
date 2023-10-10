@@ -31,12 +31,8 @@ namespace Tyuiu.GaleevTS.Sprint1.Task6.V15
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ                                                          *");
             Console.WriteLine("****************************************************************************");
-
-            double x, y;
-            Console.WriteLine("Введите значение X: ");
-            x = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите значение Y: ");
-            y = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите строку: ");
+            string value = Console.ReadLine();
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
